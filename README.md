@@ -1,4 +1,4 @@
-## ASP.NET Core Web API + Stormpath = secure REST API
+## ASP.NET Core + Stormpath = secure REST API
 
 This repository contains the final project.
 
