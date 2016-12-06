@@ -1,4 +1,4 @@
-## ASP.NET Core + Stormpath = secure REST API
+## Build a REST API for your Mobile Apps with ASP.NET Core
 
 This repository contains the final project.
 
